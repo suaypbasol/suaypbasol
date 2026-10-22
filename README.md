@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hallo, ich bin Suayp 👋
 
-<!--
-**suaypbasol/suaypbasol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Umschüler zum Fachinformatiker für Systemintegration** (IHK) mit dem Ziel **SAP Basis Administration**.
 
-Here are some ideas to get you started:
+Vor meinem Weg in die IT war ich fast 10 Jahre Lehrer – heute verbinde ich
+Struktur und Erklären mit Netzwerken, Systemen und Automatisierung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Schwerpunkte
+- **Netzwerktechnik:** Cisco Packet Tracer (VLAN, Routing, [ ... ])
+- **Automatisierung:** PowerShell
+- **Datenbanken:** MS SQL Server, MySQL
+- **Cloud:** AWS (Hands-on Labs)
+- **CRM:** Salesforce
+
+## 📂 Projekte
+| Projekt | Beschreibung |
+|---|---|
+| [Projektname](link) | kommt bald |
+
+## 📫 Kontakt
+- LinkedIn: [Link]
+- Standort: Hessen
+
+*Sprachen: Türkisch (Muttersprache), Deutsch, Englisch
