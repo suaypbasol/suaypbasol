@@ -6,7 +6,7 @@ Vor meinem Weg in die IT war ich fast 10 Jahre Lehrer – heute verbinde ich
 Struktur und Erklären mit Netzwerken, Systemen und Automatisierung.
 
 ## 🔧 Schwerpunkte
-- **Netzwerktechnik:** Cisco Packet Tracer (VLAN, Routing, [ ... ])
+- **Netzwerktechnik:** Cisco Packet Tracer (VLAN, Routing, OSPF, ACL, DHCP)
 - **Automatisierung:** PowerShell
 - **Datenbanken:** MS SQL Server, MySQL
 - **Cloud:** AWS (Hands-on Labs)
@@ -21,4 +21,4 @@ Struktur und Erklären mit Netzwerken, Systemen und Automatisierung.
 - LinkedIn: www.linkedin.com/in/suaypbasol
 - Standort: Hessen/Gießen
 
-*Sprachen: Türkisch (Muttersprache), Deutsch, Englisch
+*Sprachen: Türkisch (Muttersprache), Deutsch, Englisch*
