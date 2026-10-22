@@ -18,7 +18,7 @@ Struktur und Erklären mit Netzwerken, Systemen und Automatisierung.
 | [Projektname](link) | kommt bald |
 
 ## 📫 Kontakt
-- LinkedIn: [Link]
-- Standort: Hessen
+- LinkedIn: www.linkedin.com/in/suaypbasol
+- Standort: Hessen/Gießen
 
 *Sprachen: Türkisch (Muttersprache), Deutsch, Englisch
